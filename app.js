@@ -41,7 +41,7 @@ async function outputJson(finalHex) {
 
 // creating a team csv file
 const csvWriter = createCsvWriter({
-  path: "./teamsoutput_cvs/bevel_output.csv",
+  path: "./teamsoutput_cvs/output.csv",
   header: [
     "Series Number",
     "Filename",
