@@ -1,6 +1,6 @@
 # hngsubtask1
 
-## \_An app fro creating csv file
+## \_An app for creating csv file
 
 ## Features
 
